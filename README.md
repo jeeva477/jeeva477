@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/jeeva477">
-    <img src="https://img.shields.io/badge/GitHub-jeeva477-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-jeeva477-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/jeeva-p-96b61738a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jeeva%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Jeeva%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@ I learn by building — turning concepts into experiments, experiments into proj
 
 ## ⚡ Technical Skills
 
-### Programming
+### 💻 Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js" alt="Programming Languages"/>
@@ -80,7 +80,7 @@ I learn by building — turning concepts into experiments, experiments into proj
   <strong>Python · Java · JavaScript</strong>
 </p>
 
-### Data Science & Machine Learning
+### 📊 Data Science & Machine Learning
 
 <p align="center">
   <code>NumPy</code>
@@ -89,7 +89,7 @@ I learn by building — turning concepts into experiments, experiments into proj
   <code>Scikit-learn</code>
 </p>
 
-### Deep Learning
+### 🧠 Deep Learning
 
 <p align="center">
   <code>TensorFlow</code>
@@ -99,7 +99,7 @@ I learn by building — turning concepts into experiments, experiments into proj
   <code>LSTM</code>
 </p>
 
-### Natural Language Processing
+### 📝 Natural Language Processing
 
 <p align="center">
   <code>Transformers</code>
@@ -125,6 +125,8 @@ I learn by building — turning concepts into experiments, experiments into proj
 
 AI-oriented interview preparation project exploring intelligent assistance for interview practice.
 
+<br>
+
 <a href="https://github.com/jeeva477/ai_coach">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
@@ -135,7 +137,9 @@ AI-oriented interview preparation project exploring intelligent assistance for i
 
 ### 📝 NLP Projects
 
-Collection of Natural Language Processing implementations and experiments.
+A collection of Natural Language Processing implementations and experiments.
+
+<br>
 
 <a href="https://github.com/jeeva477/NLP">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -151,6 +155,8 @@ Collection of Natural Language Processing implementations and experiments.
 
 Deep-learning implementations and experiments focused on neural-network concepts.
 
+<br>
+
 <a href="https://github.com/jeeva477/Deep-Learning">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
@@ -162,6 +168,8 @@ Deep-learning implementations and experiments focused on neural-network concepts
 ### 🎗️ Breast Cancer Prediction
 
 Machine-learning classification project focused on predictive analysis of breast cancer data.
+
+<br>
 
 <a href="https://github.com/jeeva477/Breast-cancer">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -177,6 +185,8 @@ Machine-learning classification project focused on predictive analysis of breast
 
 Project exploring a hybrid renewable-energy concept involving solar, wind, and hydro power.
 
+<br>
+
 <a href="https://github.com/jeeva477/hybrid-renewable-energy-using-solar-wind-hydro-power-plant">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
@@ -188,6 +198,8 @@ Project exploring a hybrid renewable-energy concept involving solar, wind, and h
 ### 🗺️ Shortest Route Optimization
 
 Dijkstra-based route optimization system with Streamlit, NetworkX visualization, and Google Maps integration.
+
+<br>
 
 <a href="https://github.com/jeeva477/shortest-route-">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -203,6 +215,8 @@ Dijkstra-based route optimization system with Streamlit, NetworkX visualization,
 
 Repository containing reinforcement-learning implementations and experiments.
 
+<br>
+
 <a href="https://github.com/jeeva477/RL">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
@@ -214,6 +228,8 @@ Repository containing reinforcement-learning implementations and experiments.
 ### 📄 Resume Agent
 
 AI-oriented project exploring intelligent resume-related functionality.
+
+<br>
 
 <a href="https://github.com/jeeva477/resume-agent">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -292,15 +308,17 @@ Completed a Data Science and Machine Learning internship involving practical pro
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&center=true&vCenter=true&width=800&lines=Exploring+AI+Engineering;Building+Machine+Learning+Systems;Experimenting+with+NLP;Exploring+Generative+AI;Studying+Reinforcement+Learning;Building+Intelligent+Applications" alt="Current Focus"/>
 </p>
 
-<table align="center">
-<tr>
-<td align="center">🤖<br/><strong>AI</strong></td>
-<td align="center">🧠<br/><strong>ML</strong></td>
-<td align="center">📝<br/><strong>NLP</strong></td>
-<td align="center">✨<br/><strong>GenAI</strong></td>
-<td align="center">🎮<br/><strong>RL</strong></td>
-</tr>
-</table>
+<p align="center">
+  🤖 <strong>AI</strong>
+  &nbsp;•&nbsp;
+  🧠 <strong>ML</strong>
+  &nbsp;•&nbsp;
+  📝 <strong>NLP</strong>
+  &nbsp;•&nbsp;
+  ✨ <strong>GenAI</strong>
+  &nbsp;•&nbsp;
+  🎮 <strong>RL</strong>
+</p>
 
 ---
 
